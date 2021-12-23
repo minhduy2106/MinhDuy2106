@@ -29,7 +29,7 @@
 
 <p align="left">
 <br>
-<a href="https://www.facebook.com/profile.php?id=100009789870412"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/duy-le-nguyen-minh-293798218/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" /></a>&nbsp;
-<a href="minhduy.working@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail"/></a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100009789870412" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="minhduy2106" height = 30 width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/duy-le-nguyen-minh-293798218/" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minhduy2106" height = 30 width="40" /></a>&nbsp;
+<a href="minhduy.working@gmail.com" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="minhduy2106" height = 30 width="40"/></a>&nbsp;
 </p>
