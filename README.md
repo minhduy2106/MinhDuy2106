@@ -3,8 +3,22 @@
 </p>
 
 - 🔭 Passion in something ... (secret😊)
+
 - 💪 2021 Goals: Learning python + Machine Learning
+
 - ⭐: Reading, walking, running
+
+- ⚡ Fun fact **Big Love with AI**
+
+### 📫 Contact me via:
+
+<p align="left">
+<br>
+<a href="https://www.facebook.com/profile.php?id=100009789870412" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="minhduy2106" height = 30 width="40" color = "white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/duy-le-nguyen-minh-293798218/" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minhduy2106" height = 30 width="40" color = "white" /></a>&nbsp;
+<a href="minhduy.working@gmail.com" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="minhduy2106" height = 30 width="40" color = "white"/></a>&nbsp;
+</p>
+
 
 ### :zap: GitHub Stats
 
@@ -25,11 +39,3 @@
 
 ---
 
-### 📫 Contact me via:
-
-<p align="left">
-<br>
-<a href="https://www.facebook.com/profile.php?id=100009789870412" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="minhduy2106" height = 30 width="40" color = "white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/duy-le-nguyen-minh-293798218/" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minhduy2106" height = 30 width="40" color = "white" /></a>&nbsp;
-<a href="minhduy.working@gmail.com" target = 'blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="minhduy2106" height = 30 width="40" color = "white"/></a>&nbsp;
-</p>
