@@ -1,7 +1,7 @@
 ### Hi, I'm MINH DUY <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  = AI Engineer + Computer Vision🌻
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
+- 💪 2021 Goals: Learning python + Machine Learning
 - ⭐: Reading, walking, running
 
 ### :zap: GitHub Stats
