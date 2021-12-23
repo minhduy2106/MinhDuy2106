@@ -25,6 +25,9 @@
 
 ### 📫 Contact me via:
 
-- EMAIL: minhduy.working@gmail.com
-- FACEBOOK : https://www.facebook.com/profile.php?id=100009789870412
-- LINKEDIN : https://www.linkedin.com/in/duy-le-nguyen-minh-293798218/
+<p align="center">
+<br>
+<a href="https://www.facebook.com/profile.php?id=100009789870412"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/duy-le-nguyen-minh-293798218/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="minhduy.working@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
