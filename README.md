@@ -1,12 +1,12 @@
 <h1 align="center">
-    Hi, I'm MINH DUY <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  =>  AI Engineer <img src = "https://cdn-icons.flaticon.com/png/512/630/premium/630426.png?token=exp=1640251482~hmac=228cf692a3e187f33bf7122688882cc1" width = "25px" >
+    Hi, I'm MINH DUY <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  =>  AI Engineer <img src = "https://cdn-icons.flaticon.com/png/512/630/premium/630426.png?token=exp=1640251482~hmac=228cf692a3e187f33bf7122688882cc1" width = "25px" > + Data Engineer 
 </h1>
 
-- 💪 2021 Goals: Learning python + Machine Learning
+- 💪 2022 Goals: Learning python + Machine Learning + Data 
 
 - ⭐ Reading, walking, running
 
-- ⚡ Fun fact **Big Love with AI**
+- ⚡ Fun fact **Big Love with AI + Data**
 
 ### 📫 Contact me via:
 
